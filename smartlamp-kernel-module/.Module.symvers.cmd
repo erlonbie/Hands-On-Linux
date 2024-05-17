@@ -1,0 +1,1 @@
+savedcmd_/home/uchoa/repos/Hands-On-Linux/smartlamp-kernel-module/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/uchoa/repos/Hands-On-Linux/smartlamp-kernel-module/Module.symvers -T /home/uchoa/repos/Hands-On-Linux/smartlamp-kernel-module/modules.order -i Module.symvers -e 

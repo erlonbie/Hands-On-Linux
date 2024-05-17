@@ -1,0 +1,1 @@
+savedcmd_/home/uchoa/repos/Hands-On-Linux/smartlamp-kernel-module/modules.order := {   echo /home/uchoa/repos/Hands-On-Linux/smartlamp-kernel-module/probe.o; :; } > /home/uchoa/repos/Hands-On-Linux/smartlamp-kernel-module/modules.order
